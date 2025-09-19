@@ -1,8 +1,8 @@
 # Africa-CO2-Emission-and-Economic-Profile
 # Table of Content
--[Introduction](#Introduction)
--[Problem Statement](#Problem-Statement)
--[About Dataset](#About-Dataset)
+- [Introduction](#Introduction)
+- [Problem Statement](#Problem-Statement)
+- [About Dataset](#About-Dataset)
 
 # Introduction
 Climate change is one of the most pressing global challenges of our time, with carbon dioxide (CO2) emissions being a primary contributor.
