@@ -26,6 +26,10 @@ Economic Leaders: GDP per Capita
 Total CO2 Emissions Overview
 Key Contributors to Emissions
 Deep Dive: Top Emitting Countries
+```sql
+
+```
+
 Sectoral Analysis of Emissions
 Key Correlations
 # Insights
